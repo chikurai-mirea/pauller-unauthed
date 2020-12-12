@@ -1,0 +1,156 @@
+@media screen and (max-width: 769px) {
+    .create_poll_block {
+        width: 628px;
+    }
+
+    .form_description {
+        width: 495px;
+    }
+
+    .poll_type_def {
+        font-size: 11px;
+    }
+
+    .tab_nav ul li {
+        width: 173px;
+    }
+
+    .tab_nav ul li a{
+        width: 173px;
+    }
+
+}
+
+@media screen and (max-width: 667px) {
+    .create_poll_block {
+        width: 446px;
+    }
+
+    .form_description {
+        width: 321px;
+        height: 45px;
+    }
+
+    .tab_pane {
+        width: 375px;
+    }
+
+    .form_title::placeholder, .form_description::placeholder {
+        font-size: 11px;
+    }
+
+    .form_finish span {
+        font-size: 11px;
+    }
+
+    .tab_nav ul li {
+        width: 115px;
+    }
+
+    .tab_nav ul li a{
+        width: 115px;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .create_poll_block {
+        width: 228px;
+    }
+
+    .form_title {
+        width: 105px;
+        height: 0px;
+    }
+
+    .form_description {
+        width: 105px;
+        height: 45px;
+    }
+
+    .form_title, .form_description {
+        border-radius: 12px;
+        font-size: 10px;
+    }
+
+    .form_title::placeholder, .form_description::placeholder {
+        font-size: 8px;
+    }
+
+    .form_finish {
+        display: block;
+        width: 168px;
+    }
+
+    .form_finish select {
+        margin-left: 7px;
+        font-size: 8px;
+    }
+
+    .tab_nav ul {
+        width: 145px;
+    }
+
+
+    .tab_nav ul li {
+        display: block;
+        margin-top: 3px;
+        width: 100%;
+    }
+
+    #sngl {
+        border-radius: 0;
+    }
+
+    #txt {
+        border-radius: 0;
+    }
+
+    .tab_nav ul li:first-child {
+        border-radius: 0;
+    }
+    .tab_nav ul li:last-child {
+        border-radius: 0;
+    }
+    
+    .tab_nav ul li a{
+        width: 100%;
+        font-size: 7px;
+    }
+
+    .tab_pane {
+        width: 145px;
+    }
+
+    .poll_type_def {
+        display: block;
+        font-size: 7px;
+        line-height: 2;
+        height: 90px;
+    }
+
+    .answ_opt {
+        margin-top: 0;
+        font-size: 10px;
+    }
+
+    .answ_field {
+        width: 145px;
+        font-size: 9px;
+    }
+
+    .answer_fields {
+        margin-bottom: 51px;
+        width: 145px;
+        min-height: 0;
+        margin-top: -40px;
+    }
+
+    .answ_field::placeholder {
+        font-size: 7px;
+    }
+
+    .create_btn {
+        right: 50px;
+    }
+}

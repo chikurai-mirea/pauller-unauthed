@@ -1,0 +1,58 @@
+@media screen and (max-width: 1199px){
+    .no_polls_block {
+        width: 80%;
+    }
+
+    .guys, .stars {
+        display: none;
+    }
+
+    .main_guy {
+        width: 350px;
+        height: 350px;
+    }
+
+}
+
+@media screen and (max-width: 970px){
+    .main_guy {
+        width: 240px;
+        height: 240px;
+    }
+
+}
+
+@media screen and (max-width: 830px) {
+    .txt_content {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 574px) {    
+    .no_polls_block {
+        margin-top: 60px;
+        align-content: flex-start;
+    }
+    
+    .main_guy {
+        width: 164px;
+        height: 164px;
+    }
+
+    .no_polls_title {
+        font-size: 24px;
+    }
+
+    .no_polls_mgs {
+        font-size: 10px;
+    }
+
+    .f_box {
+        font-size: 18px;
+    }
+
+    #iwant {
+        font-size: 15px;
+    }
+
+}

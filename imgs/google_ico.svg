@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Эллипс_5" data-name="Эллипс 5" cx="12" cy="12" r="12" transform="translate(927 779.351)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="google_ico" transform="translate(-927 -779.351)" clip-path="url(#clip-path)">
+    <g id="google_ico-2" data-name="google_ico" transform="translate(927.242 779.351)">
+      <path id="Контур_4" data-name="Контур 4" d="M29.252,16.832a14.394,14.394,0,0,0-.211-2.487H17.5v4.713h6.611a5.665,5.665,0,0,1-2.447,3.719v3.058H25.6a11.953,11.953,0,0,0,3.647-9Z" transform="translate(-5.257 -4.311)" fill="#4285f4"/>
+      <path id="Контур_5" data-name="Контур 5" d="M12.8,30.747a11.716,11.716,0,0,0,8.113-2.955l-3.944-3.058A7.423,7.423,0,0,1,5.928,20.853H1.858v3.153A12.241,12.241,0,0,0,12.8,30.747Z" transform="translate(-0.556 -6.267)" fill="#34a853"/>
+      <path id="Контур_6" data-name="Контур 6" d="M5.364,17.484a7.331,7.331,0,0,1,0-4.686V9.645H1.3a12.25,12.25,0,0,0,0,10.991Z" transform="translate(0.003 -2.898)" fill="#fbbc04"/>
+      <path id="Контур_7" data-name="Контур 7" d="M12.8,4.843a6.651,6.651,0,0,1,4.7,1.835l3.494-3.494A11.763,11.763,0,0,0,12.8,0,12.237,12.237,0,0,0,1.858,6.746L5.924,9.9A7.321,7.321,0,0,1,12.8,4.843Z" transform="translate(-0.556 0.001)" fill="#ea4335"/>
+    </g>
+  </g>
+</svg>

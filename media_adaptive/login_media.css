@@ -1,0 +1,35 @@
+
+@media screen and (max-width: 769px) {
+    .login_block {
+        width: 344px;
+    }
+
+    .form_login h5 {
+        font-size: 24px;
+    }
+
+    .login_input {
+        padding: 12px 56px 12px 24px;
+    }
+
+}
+
+
+@media screen and (max-width: 376px) {
+    .login_block {
+        width: 264px;
+    }
+
+    .form_login h5 {
+        font-size: 21px;
+    }
+
+    .login_input {
+        padding: 12px 13px 12px 24px;
+    }
+
+    .login_btn {
+        padding: 6px 39px;
+    }
+
+}

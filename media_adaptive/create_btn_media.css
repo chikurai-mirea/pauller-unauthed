@@ -1,0 +1,30 @@
+@media screen and (max-width: 970px){
+
+    .circle_btn::after {
+        width: 40%;
+    }
+
+    .circle_btn::before {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 574px) {
+
+    .circle_btn::after {
+        top: 154px;
+    }
+
+    .circle_btn::before {
+        top: 154px;
+    }
+
+    .circle_btn {
+        width: 29px;
+        border: 1px solid #707070; 
+        height: 29px;
+        line-height: 30px;
+        font-size: 28px;
+        margin-top: 20px;
+    }
+}

@@ -1,0 +1,64 @@
+
+
+/* WARNING POPUPS MEDIA */
+
+@media screen and (max-width: 769px) {
+    .warn_size {
+        width: 543px;
+        height: 365px;
+    }  
+
+    .text_box {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .warn_content {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 574px) {
+    .warn_size {
+        width: 421px;
+        height: 239px;
+    }
+
+    .warn_img {
+        width: 85px;
+        height: 85px;
+    }
+
+    .text_box {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .warn_content {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: auto;
+    }
+
+    .warn_title {
+        font-size: 50px;
+    }
+
+    .warn_msg {
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .warn_size {
+        width: 251px;
+        height: 259px;
+    }
+
+}

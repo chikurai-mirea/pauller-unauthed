@@ -1,0 +1,33 @@
+@media screen and (max-width: 1181px) {
+    .post_block {
+        width: 80%;
+    }
+
+    .post_block .post_imgs img {
+        margin-top: 20px;
+    } 
+
+    .post_block .post_header {
+        flex-wrap: wrap;
+    }
+
+    .post_block .post_header .post_meta {
+        margin-left: 0;
+    }
+    
+
+    .post_block .post_header .post_title {
+        font-size: 20px;
+    }
+
+    .post_block .post_imgs {
+        margin-top: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .post_block .post_content  {
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,30 @@
+@media screen and (max-width: 1199px){
+    header {
+        width: 80%;
+    }
+
+}
+
+@media screen and (max-width: 769px) {
+    .user_box {
+        display: none;
+    }
+
+    header ul {
+        display: none;
+    }
+
+    .user_gmbg {
+        display: block;
+    }
+
+}
+
+
+@media screen and (max-width: 574px) {
+    .logo {
+        margin-left: 41px;
+        width: 92px;
+        height: 46px;
+    }
+}
